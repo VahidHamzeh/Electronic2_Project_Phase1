@@ -1,4 +1,4 @@
-# Electronic2---Project---Phase1
+# Electronic2 | Project | Phase1
 # MOSFET Differential Amplifier Design Project
 
 ## Introduction
