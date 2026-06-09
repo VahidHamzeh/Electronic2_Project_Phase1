@@ -16,10 +16,10 @@ The primary objective was to design a high-performance differential amplifier fr
 
 This project is organized into four key phases, each with its dedicated analysis and supporting LTspice simulation files:
 
-* **Part 1: [Specific Component of Design, e.g., DC Bias and Current Mirror Design]**
-* **Part 2: [Specific Component of Design, e.g., Single-Stage Gain Analysis]**
-* **Part 3: [Specific Component of Design, e.g., Frequency Response and Stability]**
-* **Part 4: [Specific Component of Design, e.g., Final System Integration and CMRR Optimization]**
+* **Part 1: Differential amplifier with MOSFET**
+* **Part 2: Active Load**
+* **Part 3: Current Mirror**
+* **Part 4: Self-Biased Differential Amplifier**
 
 This systematic modular approach demonstrates a thorough understanding of each facet of analog circuit design.
 
